@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://gaenathiig.cherryleer.com/sitemap.xml
